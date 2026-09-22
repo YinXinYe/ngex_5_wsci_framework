@@ -1,0 +1,10 @@
+{
+  "issue": "Windows laptop cannot connect to campus Wi-Fi after password change",
+  "device": "Windows laptop",
+  "cause": "Cached old password for eduroam network in Windows credentials",
+  "steps": [
+    "Forget the existing eduroam network in Windows Settings",
+    "Reconnect to eduroam and enter your new password",
+    "Verify university account is active (no reported Wi-Fi outage)"
+  ]
+}
